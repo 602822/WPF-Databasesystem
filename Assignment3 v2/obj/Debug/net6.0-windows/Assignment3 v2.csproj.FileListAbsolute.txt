@@ -1,0 +1,67 @@
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\bin\Debug\net6.0-windows\Assignment3 v2.exe
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\bin\Debug\net6.0-windows\Assignment3 v2.deps.json
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\bin\Debug\net6.0-windows\Assignment3 v2.runtimeconfig.json
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\bin\Debug\net6.0-windows\Assignment3 v2.dll
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\bin\Debug\net6.0-windows\Assignment3 v2.pdb
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\obj\Debug\net6.0-windows\Assignment3 v2.csproj.AssemblyReference.cache
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\obj\Debug\net6.0-windows\Assignment3 v2_MarkupCompile.cache
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\obj\Debug\net6.0-windows\Assignment3 v2_MarkupCompile.lref
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\obj\Debug\net6.0-windows\Assignment3 v2.g.resources
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\obj\Debug\net6.0-windows\Assignment3 v2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\obj\Debug\net6.0-windows\Assignment3 v2.AssemblyInfoInputs.cache
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\obj\Debug\net6.0-windows\Assignment3 v2.AssemblyInfo.cs
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\obj\Debug\net6.0-windows\Assignment3 v2.csproj.CoreCompileInputs.cache
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\obj\Debug\net6.0-windows\Assignment3 v2.csproj.CopyComplete
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\obj\Debug\net6.0-windows\Assignment3 v2.dll
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\obj\Debug\net6.0-windows\refint\Assignment3 v2.dll
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\obj\Debug\net6.0-windows\Assignment3 v2.pdb
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\obj\Debug\net6.0-windows\Assignment3 v2.genruntimeconfig.cache
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\obj\Debug\net6.0-windows\ref\Assignment3 v2.dll
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\obj\Debug\net6.0-windows\Editor.g.cs
+C:\Users\vefje\source\repos\Assignment3 v2\Assignment3 v2\obj\Debug\net6.0-windows\Editor.baml
