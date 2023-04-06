@@ -59,6 +59,7 @@ namespace Assignment3_v2
 
         }
 
+        //Søkefunksjon der du kan søke på ein student ved navn
         private void searchButton_Click(object sender, RoutedEventArgs e)
         {
             studentList.DataContext = Students.Where(student => student.Studentname.Contains(searchField.Text))
@@ -66,10 +67,12 @@ namespace Assignment3_v2
 
         }
 
+
+        //Får tak i studentene som har kurset som er valgt
         private void selectCource_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
 
-            //Får tak i studentene som har kurset som er valgt
+          
 
             var result = from student in Students
                          join grade in Grades on student.Id equals grade.Studentid
@@ -84,6 +87,8 @@ namespace Assignment3_v2
             }
         }
 
+
+        //Viser Studenter som har høgere eller lik den karakteren du valgte
         private void selectGrade_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
 
@@ -109,6 +114,7 @@ namespace Assignment3_v2
 
         }
 
+        //Finner studenter med Karakter F
         private void failedStudentsCheckBox_Checked(object sender, RoutedEventArgs e)
         {
 
@@ -134,6 +140,7 @@ namespace Assignment3_v2
             }
         }
 
+        //Opner Editoren
         private void editButton_Click(object sender, RoutedEventArgs e)
         {
 

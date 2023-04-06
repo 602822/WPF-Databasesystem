@@ -40,6 +40,7 @@ namespace Assignment3_v2
             
         }
 
+        //Legger til ein student
         private void addStudentButton_Click(object sender, RoutedEventArgs e)
         {
 
@@ -65,6 +66,7 @@ namespace Assignment3_v2
             datacontex.SaveChanges();
         }
 
+        //Sletter ein stuent med gitt id
         private void deleteStudentButton_Click(object sender, RoutedEventArgs e)
         {
             int id = int.Parse(idTextBox.Text);

@@ -31,8 +31,8 @@ DisplayMemberBinding="{Binding Path=Grade1}" >
                 </GridView>
             </ListView.View>
         </ListView>
-        <TextBox Name ="searchField"  HorizontalAlignment="Left" Margin="26,-54,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" TextChanged="searchField_TextChanged"/>
-        <Button Name ="searchButton"  Content="Search" Margin="172,-54,67,0" VerticalAlignment="Top" Click="searchButton_Click" RenderTransformOrigin="0.5,0.5">
+        <TextBox Name ="searchField"  HorizontalAlignment="Left" Margin="21,-65,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" TextChanged="searchField_TextChanged"/>
+        <Button Name ="searchButton"  Content="Search" Margin="18,-35,221,0" VerticalAlignment="Top" Click="searchButton_Click" RenderTransformOrigin="0.5,0.5">
             <Button.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform/>
@@ -42,13 +42,13 @@ DisplayMemberBinding="{Binding Path=Grade1}" >
                 </TransformGroup>
             </Button.RenderTransform>
         </Button>
-        <ComboBox Name="selectCource"  HorizontalAlignment="Left" Margin="254,-44,0,0" VerticalAlignment="Top" Width="94" Height="27" SelectionChanged="selectCource_SelectionChanged" Grid.ColumnSpan="2"/>
+        <ComboBox Name="selectCource"  HorizontalAlignment="Left" Margin="29,-43,0,0" VerticalAlignment="Top" Width="94" Height="27" SelectionChanged="selectCource_SelectionChanged" Grid.Column="1"/>
         <Label Content="Select Cource
-               " HorizontalAlignment="Left" Margin="254,-72,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2"/>
-        <ComboBox Name ="selectGrade"  HorizontalAlignment="Left" Margin="82,-44,0,0" VerticalAlignment="Top" Width="94" Height="27" SelectionChanged="selectGrade_SelectionChanged" Grid.Column="1"/>
+               " HorizontalAlignment="Left" Margin="29,-65,0,0" VerticalAlignment="Top" Grid.Column="1"/>
+        <ComboBox Name ="selectGrade"  HorizontalAlignment="Left" Margin="128,-43,0,0" VerticalAlignment="Top" Width="97" Height="27" SelectionChanged="selectGrade_SelectionChanged" Grid.Column="1"/>
         <Label Content="Select Grade
-               " HorizontalAlignment="Left" Margin="82,-70,0,0" VerticalAlignment="Top" Grid.Column="1"/>
-        <CheckBox Name ="failedStudentsCheckBox"  Grid.Column="1" Content="Only show Failed students" HorizontalAlignment="Left" Margin="211,-36,0,0" VerticalAlignment="Top" Width="165" Checked="failedStudentsCheckBox_Checked"/>
-        <Button Name="editButton" Grid.Column="1" Content="Edit" HorizontalAlignment="Left" Margin="410,-41,0,0" VerticalAlignment="Top" Width="78" Click="editButton_Click"/>
+               " HorizontalAlignment="Left" Margin="128,-66,0,0" VerticalAlignment="Top" Grid.Column="1"/>
+        <CheckBox Name ="failedStudentsCheckBox"  Grid.Column="1" Content="Only show Failed students" HorizontalAlignment="Left" Margin="230,-40,0,0" VerticalAlignment="Top" Width="165" Checked="failedStudentsCheckBox_Checked"/>
+        <Button Name="editButton" Grid.Column="1" Content="Edit" HorizontalAlignment="Left" Margin="400,-43,0,0" VerticalAlignment="Top" Width="78" Click="editButton_Click"/>
     </Grid>
 </Window>
